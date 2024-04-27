@@ -75,5 +75,27 @@ void MainWindow::on_actionSave_2_triggered()
     }
 
 
+// Bold Function
+    
+void MainWindow::on_actionBold_triggered()
+{
+    // Gets the current highlighted text
+    QTextCursor cursor = ui->plainTextEdit->textCursor();
+
+    // Creates and stores the variable for the current text format
+    QTextCharFormat format = cursor.charFormat();
+
+    // Create bold format
+    format.setFontWeight(format.fontWeight() == QFont::Bold ? QFont::Normal : QFont::Bold);
+
+    // Apply the created bold format to the selected text
+    cursor.mergeCharFormat(format);
+
+
+    ui->plainTextEdit->setTextCursor(cursor);
+}
+
+
+
 }
 

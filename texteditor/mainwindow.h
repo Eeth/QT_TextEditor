@@ -8,6 +8,11 @@
 #include <QTextStream>
 #include <QMessageBox>
 
+#include <QTextEdit>
+#include <QApplication>
+#include <QLabel>
+#include <QTextCharFormat>
+
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;

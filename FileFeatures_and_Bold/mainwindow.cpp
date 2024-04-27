@@ -65,7 +65,9 @@ void MainWindow::on_actionSave_As_triggered()
 }
 
 void MainWindow::on_actionSave_triggered()
-{
+{   if(currentFile == ""){
+        MainWindow::on_actionSave_As_triggered();
+    }
     QFile file(currentFile);
     if(file.open(QIODevice::WriteOnly | QIODevice::Text)){
         QTextStream out(&file);

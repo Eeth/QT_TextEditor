@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-111ca690d5f9494e611f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CSE_165_Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CSE_165_Project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSE_165_Project-Debug-aee1880c679102984c40.json",
+					"name" : "CSE_165_Project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSE_165_Project_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSE_165_Project_autogen-Debug-6c3304ef66d606efabc3.json",
+					"name" : "CSE_165_Project_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSE_165_Project_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSE_165_Project_autogen_timestamp_deps-Debug-f0386c30a874f19d7c1c.json",
+					"name" : "CSE_165_Project_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Qt_Projects/CSE_165_Project/build/Desktop-Debug",
+		"source" : "E:/Qt_Projects/CSE_165_Project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

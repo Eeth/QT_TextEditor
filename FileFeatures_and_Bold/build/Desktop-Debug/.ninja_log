@@ -1,0 +1,17 @@
+# ninja log v5
+1	974	7359092613440286	CSE_165_Project_autogen/timestamp	614aa91930609523
+1	974	7359092613440286	CSE_165_Project_autogen/mocs_compilation.cpp	614aa91930609523
+1	974	7359092613440286	E:/Qt_Projects/CSE_165_Project/build/Desktop-Debug/CSE_165_Project_autogen/timestamp	614aa91930609523
+1	974	7359092613440286	E:/Qt_Projects/CSE_165_Project/build/Desktop-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	614aa91930609523
+974	3196	7359092636438510	CMakeFiles/CSE_165_Project.dir/main.cpp.obj	c2d3333108a8f59
+980	3237	7359092636907264	CMakeFiles/CSE_165_Project.dir/CSE_165_Project_autogen/mocs_compilation.cpp.obj	15cd9c76a84c2908
+977	3633	7359092640871593	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	e70d7ab8e53834a2
+3642	3969	7359092644182932	CSE_165_Project.exe	55e6cff2c2e62d59
+12	935	7359095715046184	CSE_165_Project_autogen/timestamp	614aa91930609523
+12	935	7359095715046184	CSE_165_Project_autogen/mocs_compilation.cpp	614aa91930609523
+12	935	7359095715046184	E:/Qt_Projects/CSE_165_Project/build/Desktop-Debug/CSE_165_Project_autogen/timestamp	614aa91930609523
+12	935	7359095715046184	E:/Qt_Projects/CSE_165_Project/build/Desktop-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	614aa91930609523
+942	3794	7359095744462564	CMakeFiles/CSE_165_Project.dir/CSE_165_Project_autogen/mocs_compilation.cpp.obj	15cd9c76a84c2908
+939	3831	7359095744831591	CMakeFiles/CSE_165_Project.dir/main.cpp.obj	c2d3333108a8f59
+935	4639	7359095752910430	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	e70d7ab8e53834a2
+4644	4973	7359095756211611	CSE_165_Project.exe	55e6cff2c2e62d59

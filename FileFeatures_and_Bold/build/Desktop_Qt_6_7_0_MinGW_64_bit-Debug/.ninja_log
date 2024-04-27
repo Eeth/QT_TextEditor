@@ -1,0 +1,64 @@
+# ninja log v5
+4	155	7358156267080376	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	155	7358156267080376	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+179	2527	7358156290800936	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	650c9146557408b9
+4	155	7358156267080376	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	155	7358156267080376	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+879	3350	7358153513158076	CMakeFiles/CSE_165_Project.dir/CSE_165_Project_autogen/mocs_compilation.cpp.obj	6d4e516e6b23aa7e
+843	2825	7358135907801740	CMakeFiles/CSE_165_Project.dir/main.cpp.obj	68b150aee7d5f75b
+2544	2720	7358156292688348	CSE_165_Project.exe	a34b016112da6df9
+725	3491	7358148394568521	CMakeFiles/CSE_165_Project.dir/newfile.cpp.obj	2027e14ba7f74404
+175	2543	7358156290970474	CMakeFiles/CSE_165_Project.dir/filenew.cpp.obj	826921eae46a666d
+4	108	7358166361926416	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	108	7358166361926416	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+4	108	7358166361926416	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	108	7358166361926416	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+108	1491	7358166376181357	CMakeFiles/CSE_165_Project.dir/CSE_165_Project_autogen/mocs_compilation.cpp.obj	6d4e516e6b23aa7e
+4	156	7358166551726765	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	156	7358166551726765	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+4	156	7358166551726765	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	156	7358166551726765	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+171	2630	7358166576479497	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	650c9146557408b9
+2630	2792	7358166578046231	CSE_165_Project.exe	753e4741a12d6ab0
+5	143	7358174715030448	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+5	143	7358174715030448	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+5	143	7358174715030448	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+5	143	7358174715030448	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+155	2289	7358174736493380	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	650c9146557408b9
+2289	2453	7358174738088773	CSE_165_Project.exe	753e4741a12d6ab0
+5	132	7358176499039353	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+5	132	7358176499039353	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+5	132	7358176499039353	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+5	132	7358176499039353	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+6	589	7358186126736749	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+6	589	7358186126736749	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+6	589	7358186126736749	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+6	589	7358186126736749	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+589	2570	7358186147101600	CMakeFiles/CSE_165_Project.dir/CSE_165_Project_autogen/mocs_compilation.cpp.obj	6d4e516e6b23aa7e
+593	2648	7358186147859600	CMakeFiles/CSE_165_Project.dir/main.cpp.obj	68b150aee7d5f75b
+597	2903	7358186150421312	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	650c9146557408b9
+2903	3073	7358186152073233	CSE_165_Project.exe	753e4741a12d6ab0
+8	132	7358188784499571	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+8	132	7358188784499571	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+8	132	7358188784499571	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+8	132	7358188784499571	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+145	1852	7358188801707116	CMakeFiles/CSE_165_Project.dir/main.cpp.obj	68b150aee7d5f75b
+150	2197	7358188805153606	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	650c9146557408b9
+4	143	7358191138498408	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	143	7358191138498408	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+4	143	7358191138498408	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	143	7358191138498408	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+156	2269	7358191159750932	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	650c9146557408b9
+2270	2437	7358191161386606	CSE_165_Project.exe	753e4741a12d6ab0
+5	127	7358191750314503	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+5	127	7358191750314503	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+5	127	7358191750314503	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+5	127	7358191750314503	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+146	2076	7358191769810180	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	650c9146557408b9
+2077	2222	7358191771230602	CSE_165_Project.exe	753e4741a12d6ab0
+4	137	7358196300791594	CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	137	7358196300791594	CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+4	137	7358196300791594	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/timestamp	85c33c92fcbc4109
+4	137	7358196300791594	C:/Users/kblue/OneDrive/Documents/CSE 165/CSE 165 Project/CSE_165_Project/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CSE_165_Project_autogen/mocs_compilation.cpp	85c33c92fcbc4109
+153	2277	7358196322179523	CMakeFiles/CSE_165_Project.dir/mainwindow.cpp.obj	650c9146557408b9
+2277	2441	7358196323790354	CSE_165_Project.exe	753e4741a12d6ab0

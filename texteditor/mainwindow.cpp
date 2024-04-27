@@ -75,6 +75,9 @@ void MainWindow::on_actionSave_2_triggered()
     }
 
 
+}
+
+
 // Bold Function
     
 void MainWindow::on_actionBold_triggered()
@@ -93,9 +96,5 @@ void MainWindow::on_actionBold_triggered()
 
 
     ui->plainTextEdit->setTextCursor(cursor);
-}
-
-
-
 }
 

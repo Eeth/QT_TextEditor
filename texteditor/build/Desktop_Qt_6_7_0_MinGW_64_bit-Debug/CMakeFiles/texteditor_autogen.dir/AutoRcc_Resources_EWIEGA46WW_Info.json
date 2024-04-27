@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "E:/Qt_Projects/texteditor/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/texteditor_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Qt_Projects/texteditor/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Qt_Projects/texteditor/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Qt_Projects/texteditor",
+	"CMAKE_SOURCE_DIR" : "E:/Qt_Projects/texteditor",
+	"INCLUDE_DIR" : "E:/Qt_Projects/texteditor/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/texteditor_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "E:/Qt_Projects/texteditor/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/texteditor_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Qt_Projects/texteditor/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/texteditor_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Qt_Projects/texteditor/Resources.qrc",
+	"VERBOSITY" : 0
+}

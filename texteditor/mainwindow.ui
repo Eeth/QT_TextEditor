@@ -97,6 +97,11 @@
     <string>Save</string>
    </property>
   </action>
+ <action name="actionBold">
+   <property name="text">
+    <string>Bold</string>
+   </property>
+  </action>
  </widget>
  <resources/>
  <connections/>
